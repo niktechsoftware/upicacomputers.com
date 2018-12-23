@@ -1,0 +1,514 @@
+[26-Oct-2013 04:53:34] PHP Warning:  include(menu1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/student_reg.php on line 79
+[26-Oct-2013 04:53:34] PHP Warning:  include(menu1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/student_reg.php on line 79
+[26-Oct-2013 04:53:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'menu1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/student_reg.php on line 79
+[26-Oct-2013 04:54:39] PHP Warning:  include(menu1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/stu_manage.php on line 79
+[26-Oct-2013 04:54:39] PHP Warning:  include(menu1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/stu_manage.php on line 79
+[26-Oct-2013 04:54:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'menu1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/stu_manage.php on line 79
+[26-Oct-2013 04:57:46] PHP Warning:  move_uploaded_file(stu_image/IMG_1990.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/reg.php on line 16
+[26-Oct-2013 04:57:46] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpVft52M' to 'stu_image/IMG_1990.JPG' in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/reg.php on line 16
+[26-Oct-2013 04:57:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/reg.php on line 17
+[26-Oct-2013 05:02:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/new_ad_db.php on line 48
+[26-Oct-2013 05:07:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/new_ad_db.php on line 48
+[26-Oct-2013 05:46:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/itexamnz/public_html/www.nbcs.co.in/jrss/admin/manage_stu.php on line 111
+[10-Nov-2013 11:37:29] PHP Warning:  move_uploaded_file(stu_image/1.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:37:29] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpj7meMS' to 'stu_image/1.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:37:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:37:57] PHP Warning:  move_uploaded_file(stu_image/1.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:37:57] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpDMEwgT' to 'stu_image/1.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:37:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:38:52] PHP Warning:  move_uploaded_file(stu_image/2.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:38:52] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpWK6qKd' to 'stu_image/2.JPG' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:38:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:39:34] PHP Warning:  move_uploaded_file(stu_image/3.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:39:34] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpYlVGvm' to 'stu_image/3.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:39:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:40:22] PHP Warning:  move_uploaded_file(stu_image/4.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:40:22] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpw11BBu' to 'stu_image/4.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:40:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:40:59] PHP Warning:  move_uploaded_file(stu_image/5.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:40:59] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpqKNAGb' to 'stu_image/5.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:40:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:41:39] PHP Warning:  move_uploaded_file(stu_image/6.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:41:39] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpkFo04A' to 'stu_image/6.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:41:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:42:18] PHP Warning:  move_uploaded_file(stu_image/7.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:42:18] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpWUGnSD' to 'stu_image/7.jpg' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:42:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:42:53] PHP Warning:  move_uploaded_file(stu_image/8.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:42:53] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php1AlSWb' to 'stu_image/8.JPG' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:42:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[10-Nov-2013 11:58:15] PHP Warning:  move_uploaded_file(stu_image/IMG_1989.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:58:15] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpGFyyYo' to 'stu_image/IMG_1989.JPG' in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 16
+[10-Nov-2013 11:58:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php:16) in /home/itexamnz/public_html/www.nbcs.co.in/demo/jrss/admin/reg.php on line 17
+[05-Dec-2013 18:20:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hwebsdwc/public_html/demo/upica/admin/edit_cont.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/menu.php on line 16
+[05-Dec-2013 18:21:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hwebsdwc/public_html/demo/upica/admin/edit_cont.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/menu.php on line 9
+[05-Dec-2013 18:22:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[05-Dec-2013 18:32:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[05-Dec-2013 18:32:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[05-Dec-2013 18:35:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 03:14:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 03:19:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 03:19:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 03:20:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 04:29:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 04:29:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 04:31:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 04:56:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 07:19:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 07:19:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[06-Dec-2013 11:59:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php:6) in /home/hwebsdwc/public_html/demo/upica/admin/s_stu.php on line 33
+[04-Jan-2014 12:40:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 03:27:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 03:34:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 03:58:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 03:59:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:00:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:00:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:02:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:02:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:02:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:02:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:02:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[06-Jan-2014 04:02:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[10-Jan-2014 07:14:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[10-Jan-2014 07:19:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[10-Jan-2014 07:21:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[10-Jan-2014 07:26:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[16-Feb-2014 11:50:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[16-Feb-2014 12:00:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[16-Feb-2014 12:03:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[21-Feb-2014 05:23:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[21-Feb-2014 05:25:02] PHP Warning:  include(bottom.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 248
+[21-Feb-2014 05:25:02] PHP Warning:  include(bottom.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 248
+[21-Feb-2014 05:25:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'bottom.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 248
+[21-Feb-2014 05:26:46] PHP Warning:  include(bottom.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/hwebsdwc/public_html/upicacomputers.com/admin/new_ad.php on line 248
+[21-Feb-2014 05:26:46] PHP Warning:  include(bottom.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/hwebsdwc/public_html/upicacomputers.com/admin/new_ad.php on line 248
+[21-Feb-2014 05:26:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'bottom.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hwebsdwc/public_html/upicacomputers.com/admin/new_ad.php on line 248
+[21-Feb-2014 05:35:32] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 33
+[21-Feb-2014 05:36:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 33
+[21-Feb-2014 05:45:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 33
+[21-Feb-2014 05:46:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[21-Feb-2014 05:54:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[21-Feb-2014 05:57:32] PHP Warning:  move_uploaded_file(photo/tiny_2.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/hwebsdwc/public_html/upicacomputers.com/admin/varification.php on line 32
+[21-Feb-2014 05:57:32] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php3bhoxs' to 'photo/tiny_2.jpg' in /home/hwebsdwc/public_html/upicacomputers.com/admin/varification.php on line 32
+[21-Feb-2014 05:58:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[21-Feb-2014 06:08:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[21-Feb-2014 06:10:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[21-Feb-2014 11:50:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[21-Feb-2014 11:50:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[22-Feb-2014 05:16:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[22-Feb-2014 05:16:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[22-Feb-2014 05:17:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[22-Feb-2014 05:17:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[22-Feb-2014 05:20:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[22-Feb-2014 05:20:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[22-Feb-2014 05:23:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[22-Feb-2014 05:31:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[22-Feb-2014 05:31:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[22-Feb-2014 06:22:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[22-Feb-2014 06:22:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[25-Feb-2014 09:50:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[25-Feb-2014 09:51:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[07-Mar-2014 07:28:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[07-Mar-2014 07:29:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[07-Mar-2014 07:29:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[13-Mar-2014 11:02:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[13-Mar-2014 11:02:51] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[14-Mar-2014 07:10:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[14-Mar-2014 07:10:55] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:6) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[26-Mar-2014 11:09:26 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[26-Mar-2014 11:09:54 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[26-Mar-2014 11:10:07 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[29-Mar-2014 09:30:31 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[29-Mar-2014 09:33:00 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[29-Mar-2014 09:33:21 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[29-Mar-2014 09:34:35 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[03-Apr-2014 09:55:44 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[03-Apr-2014 09:56:06 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[03-Apr-2014 14:27:57 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[03-Apr-2014 14:28:06 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[03-Apr-2014 14:40:16 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[03-Apr-2014 14:45:04 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[14-Apr-2014 14:20:43 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[14-Apr-2014 14:21:13 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[25-Jun-2014 10:39:39 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[25-Jun-2014 10:39:44 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[25-Jun-2014 10:44:06 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[25-Jun-2014 10:44:10 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[25-Jun-2014 10:46:53 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[26-Jun-2014 10:27:39 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[26-Jun-2014 10:27:56 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[26-Jun-2014 10:27:58 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[26-Jun-2014 10:29:31 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[26-Jun-2014 10:33:56 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php:31) in /home/hwebsdwc/public_html/upicacomputers.com/admin/c_varification.php on line 32
+[26-Jun-2014 10:34:03 Etc/GMT] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php:32) in /home/hwebsdwc/public_html/upicacomputers.com/admin/s_stu.php on line 33
+[30-May-2017 06:49:00 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[30-May-2017 06:49:52 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'hwebsdwc_upica'@'localhost' (using password: YES) in /home/gfincpnt/public_html/upicacomputers.com/admin/db.php on line 5
+[30-May-2017 07:13:32 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincpnt_upica'@'localhost' (using password: YES) in /home/gfincpnt/public_html/upicacomputers.com/admin/db.php on line 5
+[30-May-2017 07:13:36 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincpnt_upica'@'localhost' (using password: YES) in /home/gfincpnt/public_html/upicacomputers.com/admin/db.php on line 5
+[30-May-2017 07:13:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[30-May-2017 07:14:09 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[30-May-2017 07:14:20 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincpnt_upica'@'localhost' (using password: YES) in /home/gfincpnt/public_html/upicacomputers.com/admin/db.php on line 5
+[31-May-2017 16:14:23 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[31-May-2017 16:15:02 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincpnt_upica'@'localhost' (using password: YES) in /home/gfincpnt/public_html/upicacomputers.com/admin/db.php on line 5
+[31-May-2017 16:17:00 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[31-May-2017 16:17:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[31-May-2017 16:17:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[31-May-2017 16:17:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[31-May-2017 16:17:21 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[31-May-2017 16:17:34 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[31-May-2017 16:17:37 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/board.php on line 60
+[31-May-2017 16:18:22 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[31-May-2017 16:18:45 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[31-May-2017 16:19:02 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[31-May-2017 16:19:03 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[01-Jun-2017 13:15:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[01-Jun-2017 13:16:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[01-Jun-2017 15:53:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[03-Jun-2017 08:00:32 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:04:20 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:05:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:05:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:11:51 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[05-Jun-2017 06:11:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:11:57 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:11:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:11:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:11:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:11:59 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:12:00 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:05 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:08 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:11 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/board.php on line 60
+[05-Jun-2017 06:12:13 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[05-Jun-2017 06:12:18 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:12:22 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:24 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:12:29 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:38 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:12:40 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:12:46 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:12:47 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:12:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/board.php on line 60
+[05-Jun-2017 06:12:55 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[05-Jun-2017 06:12:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:12:59 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:17:30 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:17:42 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:17:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:17:46 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:17:49 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:17:59 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[05-Jun-2017 06:18:02 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:18:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/board.php on line 60
+[05-Jun-2017 06:18:05 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 06:18:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:21:18 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:21:21 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:21:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:21:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:21:37 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:21:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:21:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 06:21:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 06:21:56 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 08:20:25 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 08:20:32 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 08:20:35 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jun-2017 08:30:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 08:35:31 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jun-2017 08:35:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jun-2017 08:35:34 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 05:20:24 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Jun-2017 05:21:01 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[07-Jun-2017 05:21:07 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 05:21:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[07-Jun-2017 05:21:16 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 05:21:22 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[07-Jun-2017 05:21:24 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[07-Jun-2017 05:21:26 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[07-Jun-2017 05:21:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 05:21:34 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[07-Jun-2017 05:21:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/board.php on line 60
+[07-Jun-2017 05:21:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[07-Jun-2017 05:21:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Jun-2017 05:40:08 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Jun-2017 05:40:40 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[07-Jun-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 05:55:00 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Jun-2017 05:55:06 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[07-Jun-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 06:02:02 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Jun-2017 06:02:07 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[07-Jun-2017 06:02:09 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[07-Jun-2017 06:03:21 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Jun-2017 18:45:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Jun-2017 06:37:05 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Jun-2017 06:38:56 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[10-Jun-2017 06:42:09 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[10-Jun-2017 06:45:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[11-Jun-2017 00:47:05 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[12-Jun-2017 17:11:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Jun-2017 09:24:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Jun-2017 10:50:24 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Jun-2017 10:50:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[14-Jun-2017 10:50:51 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[14-Jun-2017 10:51:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[14-Jun-2017 10:53:44 Etc/GMT] PHP Notice:  Undefined index: dept in /home/gfincpnt/public_html/upicacomputers.com/admin/reg.php on line 6
+[14-Jun-2017 10:53:44 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/gfincpnt/public_html/upicacomputers.com/admin/reg.php on line 9
+[14-Jun-2017 10:53:49 Etc/GMT] PHP Notice:  Undefined index: dept in /home/gfincpnt/public_html/upicacomputers.com/admin/reg.php on line 6
+[14-Jun-2017 10:53:49 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/gfincpnt/public_html/upicacomputers.com/admin/reg.php on line 9
+[14-Jun-2017 10:53:51 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[14-Jun-2017 10:56:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Jun-2017 06:22:49 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[18-Jun-2017 20:27:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[22-Jun-2017 07:12:13 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[22-Jun-2017 07:12:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[22-Jun-2017 07:12:32 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[22-Jun-2017 07:18:08 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[01-Jul-2017 07:01:20 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[01-Jul-2017 07:01:37 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jul-2017 08:41:53 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jul-2017 08:42:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jul-2017 08:42:16 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[05-Jul-2017 08:44:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Jul-2017 20:03:22 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Jul-2017 20:03:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Jul-2017 20:04:19 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[10-Jul-2017 20:04:32 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[10-Jul-2017 20:04:43 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[10-Jul-2017 20:04:55 Etc/GMT] PHP Notice:  Undefined index: dept in /home/gfincpnt/public_html/upicacomputers.com/admin/reg.php on line 6
+[10-Jul-2017 20:04:55 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/gfincpnt/public_html/upicacomputers.com/admin/reg.php on line 9
+[10-Jul-2017 20:04:59 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[16-Jul-2017 17:01:49 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[16-Jul-2017 20:21:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Jul-2017 08:37:47 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[26-Jul-2017 09:58:42 Etc/GMT] PHP Notice:  Undefined index: i in /home/gfincpnt/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Oct-2017 08:33:23 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Oct-2017 08:34:28 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'ddsmaoat_upica'@'localhost' (using password: YES) in /home/ddsmaoat/public_html/upicacomputers.com/admin/db.php on line 5
+[17-Oct-2017 01:42:55 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Oct-2017 05:03:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Oct-2017 05:03:23 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'ddsmaoat_upica'@'localhost' (using password: YES) in /home/ddsmaoat/public_html/upicacomputers.com/admin/db.php on line 5
+[28-Oct-2017 05:03:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[28-Oct-2017 05:04:03 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Oct-2017 05:04:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[28-Oct-2017 05:04:20 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[28-Oct-2017 05:04:27 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Oct-2017 16:26:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Oct-2017 16:27:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[28-Oct-2017 16:27:20 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[28-Oct-2017 16:27:30 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[28-Oct-2017 16:27:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[28-Oct-2017 16:27:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Oct-2017 16:34:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Oct-2017 16:34:08 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Oct-2017 16:34:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Oct-2017 16:34:13 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Oct-2017 16:34:17 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[28-Oct-2017 17:35:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 3
+[28-Oct-2017 17:35:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[28-Oct-2017 17:35:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 33
+[28-Oct-2017 17:35:11 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[09-Nov-2017 14:14:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[09-Nov-2017 14:16:55 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Nov-2017 21:10:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[11-Nov-2017 07:33:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[11-Nov-2017 07:35:17 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[11-Nov-2017 07:35:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[11-Nov-2017 07:35:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[11-Nov-2017 07:38:16 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[11-Nov-2017 07:38:22 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[13-Nov-2017 07:07:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Nov-2017 06:27:08 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Nov-2017 06:27:17 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Nov-2017 07:06:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Nov-2017 07:44:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Nov-2017 07:45:03 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[14-Nov-2017 07:45:21 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:50:53 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 05:51:03 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Nov-2017 05:51:05 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:54:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 05:56:09 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 05:56:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 05:57:07 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 05:57:26 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Nov-2017 05:57:29 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:57:34 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:57:37 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[17-Nov-2017 05:57:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:57:42 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:57:43 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Nov-2017 05:57:47 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:57:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:57:49 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:57:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:57:55 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:57:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:58:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Nov-2017 05:58:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:58:42 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 05:58:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/board.php on line 60
+[17-Nov-2017 05:58:49 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[17-Nov-2017 05:58:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[17-Nov-2017 05:58:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 05:59:52 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 08:40:51 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 08:43:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Nov-2017 08:43:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Nov-2017 08:43:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 08:43:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Nov-2017 08:43:46 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[17-Nov-2017 08:43:49 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Nov-2017 08:43:51 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/board.php on line 60
+[17-Nov-2017 08:43:52 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/edit_cont.php on line 60
+[20-Nov-2017 08:06:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Nov-2017 08:22:16 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[20-Nov-2017 08:22:18 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[20-Nov-2017 10:37:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Nov-2017 10:37:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[20-Nov-2017 10:38:25 Etc/GMT] PHP Notice:  Undefined index: dept in /home/ddsmaoat/public_html/upicacomputers.com/admin/reg.php on line 6
+[20-Nov-2017 10:38:25 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/ddsmaoat/public_html/upicacomputers.com/admin/reg.php on line 9
+[20-Nov-2017 10:38:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[20-Nov-2017 10:38:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[21-Nov-2017 06:01:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[21-Nov-2017 06:01:23 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[21-Nov-2017 06:01:25 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[21-Nov-2017 06:04:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[21-Nov-2017 06:07:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[21-Nov-2017 06:12:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[21-Nov-2017 06:17:00 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[21-Nov-2017 06:23:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[21-Nov-2017 06:26:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[21-Nov-2017 06:30:06 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[23-Nov-2017 02:29:43 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[23-Nov-2017 06:36:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[23-Nov-2017 06:37:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[23-Nov-2017 06:37:17 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[24-Nov-2017 06:29:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[25-Nov-2017 02:31:25 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[25-Nov-2017 03:59:08 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[27-Nov-2017 05:48:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[27-Nov-2017 05:56:57 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[27-Nov-2017 06:31:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Nov-2017 06:17:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[29-Nov-2017 09:55:41 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[30-Nov-2017 03:17:30 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[30-Nov-2017 08:48:55 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[01-Dec-2017 08:40:52 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[02-Dec-2017 06:44:56 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[03-Dec-2017 03:08:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Dec-2017 05:13:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[06-Dec-2017 02:38:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[06-Dec-2017 22:46:58 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[06-Dec-2017 23:06:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[06-Dec-2017 23:19:09 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Dec-2017 02:34:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Dec-2017 06:41:40 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[11-Dec-2017 06:46:34 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[26-Dec-2017 17:15:33 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[11-Jan-2018 17:07:25 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Jan-2018 04:42:03 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[22-Jan-2018 10:06:53 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[23-Jan-2018 06:10:02 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[25-Jan-2018 06:24:27 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[25-Jan-2018 14:43:15 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[26-Jan-2018 06:50:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Jan-2018 01:27:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Jan-2018 05:29:31 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[04-Feb-2018 07:25:09 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[07-Feb-2018 02:17:37 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[13-Feb-2018 14:47:31 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Feb-2018 15:13:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Mar-2018 16:58:54 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Mar-2018 17:00:40 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Mar-2018 17:01:18 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Mar-2018 17:01:21 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Mar-2018 17:01:25 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Mar-2018 17:01:40 Etc/GMT] PHP Notice:  Undefined index: dept in /home/ddsmaoat/public_html/upicacomputers.com/admin/reg.php on line 6
+[17-Mar-2018 17:01:40 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/ddsmaoat/public_html/upicacomputers.com/admin/reg.php on line 9
+[21-Mar-2018 10:47:50 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[24-Mar-2018 11:04:44 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[30-Mar-2018 02:25:42 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[31-Mar-2018 23:01:11 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Apr-2018 08:39:30 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[30-Apr-2018 09:38:02 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[05-May-2018 04:50:38 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[06-May-2018 16:05:00 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[23-May-2018 02:37:48 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[23-May-2018 02:38:04 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[23-May-2018 02:38:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[27-May-2018 11:08:40 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[09-Jun-2018 09:14:47 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[15-Jun-2018 08:53:47 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Jun-2018 21:04:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jul-2018 04:49:17 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jul-2018 04:49:21 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[05-Jul-2018 04:50:36 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[05-Jul-2018 04:50:53 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[16-Jul-2018 03:58:05 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[16-Jul-2018 03:58:07 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[16-Jul-2018 03:58:10 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[16-Jul-2018 03:59:01 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[16-Jul-2018 03:59:12 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[16-Jul-2018 03:59:30 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Jul-2018 05:54:24 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[28-Jul-2018 05:54:28 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[28-Jul-2018 05:54:31 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[28-Jul-2018 05:55:35 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[13-Aug-2018 07:18:01 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[13-Aug-2018 07:18:14 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[13-Aug-2018 08:13:55 Etc/GMT] PHP Notice:  Undefined index: username in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 34
+[13-Aug-2018 08:13:55 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[18-Aug-2018 12:27:17 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[18-Aug-2018 12:27:26 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[27-Aug-2018 03:09:31 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[27-Aug-2018 03:22:39 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/index.php on line 80
+[27-Aug-2018 03:22:43 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[27-Aug-2018 03:22:46 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[27-Aug-2018 03:22:51 Etc/GMT] PHP Notice:  Undefined index: i in /home/ddsmaoat/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[01-Sep-2018 12:40:15 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[01-Sep-2018 12:40:22 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[11-Sep-2018 19:25:51 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Sep-2018 02:44:48 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Sep-2018 02:44:57 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[14-Sep-2018 02:45:03 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[14-Sep-2018 02:45:06 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Sep-2018 02:45:13 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[14-Sep-2018 02:45:24 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Sep-2018 02:45:41 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[14-Sep-2018 02:46:10 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[14-Sep-2018 02:46:18 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[18-Sep-2018 01:43:02 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Oct-2018 02:51:02 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Oct-2018 02:51:06 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[08-Oct-2018 02:51:09 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Oct-2018 02:51:11 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[08-Oct-2018 02:51:17 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Oct-2018 02:51:21 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[08-Oct-2018 02:53:01 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[08-Oct-2018 02:53:20 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'gfincuct_upica'@'localhost' (using password: YES) in /home3/gfincuct/public_html/upicacomputers.com/admin/db.php on line 5
+[10-Oct-2018 02:32:08 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[10-Oct-2018 02:32:14 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[10-Oct-2018 02:32:14 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[10-Oct-2018 02:32:18 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[17-Oct-2018 11:47:09 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[17-Oct-2018 11:48:10 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[17-Oct-2018 11:48:13 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/c_varification.php on line 58
+[12-Nov-2018 06:19:29 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[12-Nov-2018 12:40:16 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[12-Nov-2018 20:25:11 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[12-Nov-2018 20:27:31 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[12-Nov-2018 20:28:29 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[12-Nov-2018 20:28:33 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[12-Nov-2018 20:29:30 Etc/GMT] PHP Notice:  Undefined index: dept in /home3/gfincuct/public_html/upicacomputers.com/admin/reg.php on line 6
+[12-Nov-2018 20:29:30 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/gfincuct/public_html/upicacomputers.com/admin/reg.php on line 9
+[12-Nov-2018 20:29:33 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[12-Nov-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined index: dept in /home3/gfincuct/public_html/upicacomputers.com/admin/reg.php on line 6
+[12-Nov-2018 20:30:06 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/gfincuct/public_html/upicacomputers.com/admin/reg.php on line 9
+[12-Nov-2018 20:30:08 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/edit_succ.php on line 60
+[20-Nov-2018 03:48:17 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Nov-2018 06:45:06 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/index.php on line 80
+[20-Nov-2018 06:45:13 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/s_stu.php on line 59
+[20-Nov-2018 06:45:17 Etc/GMT] PHP Notice:  Undefined index: i in /home3/gfincuct/public_html/upicacomputers.com/admin/c_varification.php on line 58
