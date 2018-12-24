@@ -1,7 +1,7 @@
 <?php
 $dbhost='localhost';
-$dbuser='gfincuct_upica';
-$dbpass="rahul!123singh";
+$dbuser='root';
+$dbpass="";
 $conn=mysql_connect($dbhost,$dbuser,$dbpass) or die ("Database Problem");
-mysql_select_db('gfincuct_upica') or die ("Error ".mysql_error());
+mysql_select_db('upica') or die ("Error ".mysql_error());
 ?>
